@@ -1,11 +1,11 @@
-# 🚁 Drone Frontend – Assignment #2
+#  Drone Frontend – Assignment #2
 
 Web frontend for viewing and managing drone data using **Next.js + TypeScript + TailwindCSS**.
 Connected to backend API (Assignment #1) deployed on **Render**.
 
 ---
 
-## 🌈 Features
+## Features
 
 * **Page 1:** View Config → Drone ID, Name, Light, Country
 * **Page 2:** Log Form → Input Celsius → POST `/logs`
