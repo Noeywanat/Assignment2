@@ -12,8 +12,11 @@ Connected to backend API (Assignment #1) deployed on **Render**.
 * **Page 3:** View Logs → Show latest 12 records in table
 
 ---
-
-## ⚙️ Setup
+## Web
+[assignment2-one-mu.vercel.app
+](https://assignment2-one-mu.vercel.app/)
+---
+##  Setup
 
 Create `.env.local`:
 
